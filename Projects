@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Projects</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="nav">
+  <a href="index.html">Home</a>
+  <a href="publications.html">Publications</a>
+  <a href="projects.html">Projects</a>
+  <a href="service.html">Service</a>
+  <a href="teaching.html">Teaching</a>
+</div>
+
+<div class="container">
+
+<h1>Research Projects</h1>
+
+<div class="paper">
+<b>Foreign Language Emotions and Academic Engagement Model</b><br>
+Structural equation modeling study on FLE, FLCA, boredom, and engagement.
+</div>
+
+<div class="paper">
+<b>L2 Grit and Motivation in High-stakes EFL Contexts</b><br>
+Examining PE vs CI dimensions and learner performance dynamics.
+</div>
+
+</div>
+</body>
+</html>
